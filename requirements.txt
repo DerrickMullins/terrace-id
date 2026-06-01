@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+librosa
+numpy
+requests
+supabase
+python-dotenv
+soundfile
+tqdm
+pyacoustid
